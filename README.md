@@ -7,6 +7,11 @@ A simple task management web application built using HTML, CSS, and JavaScript.
 - Persistent storage using Local Storage
 - Responsive user interface
 
+## How to Run Locally
+
+1. Clone the repository
+2. Open index.html in your browser
+
 ## Technologies Used
 - HTML
 - CSS
